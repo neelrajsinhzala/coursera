@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OYF2gfI8MJD53ocBwsnrob8oizZzeADpO2yo4lmeP7w=",
+  "Source": "SimpleUserAPI",
+  "BasePath": "_content/SimpleUserAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
