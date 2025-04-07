@@ -36,7 +36,7 @@ SimpleUserAPI/
 Make sure you have [.NET SDK](https://dotnet.microsoft.com/download) installed.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/neelrajsinhzala/coursera.git)
 cd SimpleUserAPI
 dotnet restore
 dotnet build
